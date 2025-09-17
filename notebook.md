@@ -47,7 +47,8 @@ Saves time, money and energy.
 - How do you align something to the left or right?
 - What widget adds space around content?
 
- ## Code Definition 
+  
+[Code Definitions](#code-definitions) 
 
 
 | Term | Definition | Base Structure / Syntax | Real Life Example | App Example |
