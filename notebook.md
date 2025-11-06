@@ -111,7 +111,10 @@ Saves time, money and energy.
 | Abstraction | Hiding the inner workings of code so users only interact with what they need. | (Concept — not specific code) |  |  |
 | Override | Changing how a built-in or inherited function behaves. | `@override` | Define how we want it to look  |  |
 | Void | A function that does not return a value. | `void printMessage() {}` | nothing is being returned   |  |
-
+|Overload method/function or constructor | Uses the same name, but has different parameters| Pizza(), Pizza(String Topping) 2 constructors, first is a default cheese pizza, 2nd has 1 topping| | |
+| dot notation| Methods are called on objects using a dot after the object name| object.method(value);| | |
+| Conatenate| To combine strings with other strings and/or variables| String greeting = "Hello" + "My name is" + name ".";| | |
+| | | | | |
 
 
 
@@ -305,3 +308,11 @@ Blockquotes = Notes/Tips
 Collapsible = Hide/Show detail
 
 Keep it simple, consistent, and clear.
+
+
+constructor creates object
+string stores text, needs double qoutes basically the name
+the class is the datatype so whatever the class is called so is the datatype
+boolean is true or false 
+To print out an object 
+
