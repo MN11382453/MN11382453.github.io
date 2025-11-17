@@ -118,6 +118,13 @@ Saves time, money and energy.
 | Conatenate| To combine strings with other strings and/or variables| String greeting = "Hello" + "My name is" + name ".";| | |
 | | | | | |
 
+[String notes](#string-notes)
+### String Notes
+- Strings have indices (plural for index,)which starts at 0. "Hello" had indiecs 0(H), 1(e), 2(1), 3(1), 4(o).
+- Final index location is length-1
+  
+  <img width="1491" height="596" alt="Screenshot 2025-11-17 103531" src="https://github.com/user-attachments/assets/e388bfea-eb96-4c57-99d6-3b706b4af4ab" />
+
 
 
 [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
